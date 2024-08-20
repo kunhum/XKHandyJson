@@ -22,7 +22,7 @@ pod 'XKHandyJson'
 
 ## Author
 
-kennth, kennethxk@outlook.com
+kennth, kunhum@163.com
 
 ## License
 

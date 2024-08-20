@@ -1,0 +1,6 @@
+framework module XKHandyJson {
+  umbrella header "XKHandyJson-umbrella.h"
+
+  export *
+  module * { export * }
+}

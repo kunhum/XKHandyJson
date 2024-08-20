@@ -1,0 +1,16 @@
+PODS:
+  - XKHandyJson (0.0.1)
+
+DEPENDENCIES:
+  - XKHandyJson (from `../`)
+
+EXTERNAL SOURCES:
+  XKHandyJson:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XKHandyJson: 8ab08c1eb3ce35244bcd6317e9d5d54eee63e9d9
+
+PODFILE CHECKSUM: 92b5ad0cdcd2cbaa9a0b3ce275fbb9514a372e62
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,6 @@
+framework module Pods_XKHandyJson_Example {
+  umbrella header "Pods-XKHandyJson_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
