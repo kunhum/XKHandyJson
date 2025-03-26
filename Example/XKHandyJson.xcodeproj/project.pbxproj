@@ -30,7 +30,7 @@
 /* Begin PBXFileReference section */
 		34F0275A6DD10D013229465F /* Pods_XKHandyJson_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XKHandyJson_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		58C37C45B64AC82451298004 /* Pods-XKHandyJson_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XKHandyJson_Tests.release.xcconfig"; path = "Target Support Files/Pods-XKHandyJson_Tests/Pods-XKHandyJson_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		5D4E3F98F77A19774776DADA /* XKHandyJson.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XKHandyJson.podspec; path = ../XKHandyJson.podspec; sourceTree = "<group>"; };
+		5D4E3F98F77A19774776DADA /* XKHandyJson.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XKHandyJson.podspec; path = ../XKHandyJson.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* XKHandyJson_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XKHandyJson_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
